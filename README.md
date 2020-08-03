@@ -2,7 +2,7 @@
   <br>
   <samp>
     Eai! Meu nome é <b>Thomas</b>.
-    <br>Sou um estudante de Ciência da Computação do Brasil.<br>
+    <br>Sou um estudante de Ciência da Computação.<br>
 
 </samp>
 
