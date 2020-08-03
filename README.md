@@ -6,7 +6,7 @@
 
 </samp>
 
-  <img src="./assets/hk.gif" width="200"/>
+  <img src="https://github.com/ThRnk/ThRnk/blob/master/assets/hk.gif" width="200"/>
 
 </p>
 
