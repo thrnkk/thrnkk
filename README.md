@@ -1,16 +1,36 @@
-### Hi there 👋
+<p align="center">
+  <br>
+  <samp>
+    Eai! Meu nome é <b>Thomas</b>.
+    <br>Sou um estudante de Ciência da Computação do Brasil.<br>
 
-<!--
-**ThRnk/ThRnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</samp>
 
-Here are some ideas to get you started:
+  <img src="./assets/hk.gif" width="200"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+
+
+<details align="center">
+
+<summary> <b> <samp> Saber mais... </samp></b></summary>
+<br><br>
+Tecnologias Mais Utilizadas :computer:
+<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThRnk&theme=dark" /> 
+
+</p> 
+
+<br>
+Github Stats :mega:
+<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThRnk&count_private=true&theme=dark&show_icons=true" /> 
+
+</p> 
+
+</details>
+
+ 
+ 
