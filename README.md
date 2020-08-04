@@ -18,7 +18,7 @@
 Tecnologias Mais Utilizadas :computer:
 <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThRnk&theme=dark" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrnkk&theme=dark" /> 
 
 </p> 
 
@@ -26,7 +26,7 @@ Tecnologias Mais Utilizadas :computer:
 Github Stats :mega:
 <br><br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThRnk&count_private=true&theme=dark&show_icons=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=thrnkk&count_private=true&theme=dark&show_icons=true" /> 
 
 </p> 
 
