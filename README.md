@@ -3,34 +3,21 @@
   <samp>
     Eai! Meu nome é <b>Thomas</b>.
     <br>Sou um estudante de Ciência da Computação.<br>
+    Você pode conferir meu website clicando <a href="https://thrnkk.github.io/website/">aqui</a>! :wave:
 
 </samp>
-
-  <img src="https://github.com/ThRnk/ThRnk/blob/master/assets/hk.gif" width="200"/>
-
 </p>
 
-
-<details align="center">
-
-<summary> <b> <samp> Saber mais... </samp></b></summary>
-<br><br>
-Tecnologias Mais Utilizadas :computer:
-<br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrnkk&theme=dark" /> 
 
 </p> 
 
-<br>
-Github Stats :mega:
 <br><br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thrnkk&count_private=true&theme=dark&show_icons=true" /> 
 
 </p> 
-
-</details>
 
  
  
