@@ -1,9 +1,9 @@
 <p align="center">
   <br>
   <samp>
-    Eai! Meu nome é <b>Thomas</b>.
-    <br>Sou um estudante de Ciência da Computação.<br>
-    Você pode conferir meu website clicando <a href="https://thrnkk.github.io/website/">aqui</a>! :wave:
+    Hi! I am <b>Thomas</b>.
+    <br>A Computer Science student.<br>
+    You can check my website clicking <a href="https://thrnkk.github.io/website/">here</a>! :wave:
 
 </samp>
 </p>
