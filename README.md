@@ -1,8 +1,9 @@
 <p align="center">
   <br>
   <samp>
-    Hi! I am <b>Thomas</b>.
-    <br>A Computer Science student.<br>
+    Hi! I am <b>Thomas</b>. <br>
+    A Computer Science student.<br>
+    Every programming language (except Java) has it's own beauty. <br>
     You can check my website clicking <a href="https://thrnkk.github.io/website/">here</a>! :wave:
 
 </samp>
